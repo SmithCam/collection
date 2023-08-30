@@ -24,3 +24,4 @@
 /app/Config/database.php
 /vendors/*
 library/db.php
+library/config.php
